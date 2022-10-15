@@ -1,0 +1,300 @@
+
+body{
+
+    margin: 0%;
+}
+ul{
+    list-style-type: none;
+    margin-top: 2%;
+}
+
+li{
+    float: Right;
+    padding: 2px;
+    margin-top: 2%;
+    margin-right: 5%;
+}
+section{
+    height:500px;
+    font-family:'Bebas Neue', cursive;
+    
+}
+h1{
+    font-size: 80px;
+    font-weight: lighter;
+    line-height: 20px;
+    color: navy;
+    
+}
+.first-sec-div h3{
+    color: grey;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;  
+    height: 20px;
+    color: aqua;
+   
+  
+}
+
+.first-sec-div{
+    width:30%;
+    float: left;
+    margin-top:8%;
+    margin-left: 10%;
+
+    
+  
+
+    
+}
+.first-img{
+   
+    height: 400px;
+    width: 100%;
+  
+    
+}
+.button{
+
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-weight: 10px;
+    padding: 10px 15px;
+    border: 2px solid;
+    height: 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg,blue,rgb(0, 255, 162));
+}
+.second-sec{
+    width:40%;
+    float: left;
+   font-weight: 100px;
+    margin-right: 10%;
+}
+.second-sec img{
+    margin-left: 20%;
+    width: 600px;
+    height: 500px;
+}
+.second-sec h1{
+    color: navy;
+    font-weight: 100px;
+}
+.second-sec p{
+    color: grey;
+    font-style: 'Roboto', sans-serif;
+    font-weight: lighter;
+    line-height: 1.5;
+    font-size: 20px;
+   
+}
+#icon{
+    border: 2px solid red;
+    padding: 15px;
+    
+    text-decoration: none;
+    
+    
+}
+.consdivs h3{
+    font-weight: lighter;
+    font-size: 50px;
+}
+.third-sec{
+    background-color: rgb(231, 233, 243);
+    height: 900px;
+    margin-top: 40PX;
+    
+}
+.third-sec  h2{
+   padding-top: 120px;
+    font-size: 50px;
+  text-align: center;
+  font-weight: 50px;
+  font-family: 'Bebas Neue', cursive;
+  color: rgb(10, 10, 123);
+
+}
+.third-sec h3{
+
+    
+   line-height: 1.5px;
+       font-size: 30px;
+      padding-left: 10px;
+      font-weight: 50px;
+      font-family: 'Bebas Neue', cursive;
+      color: rgb(88, 72, 110);
+      
+    
+    }
+
+
+.third-sec-div{
+
+    width: 28%;
+    float: left;
+    height: 450px;
+    margin: 2%;
+    margin-left: 40px;
+   border: 2px solid white;
+   border-radius: 20px;
+   box-shadow: 5px 5px 5px 5px rgb(223, 213, 213);
+   
+
+
+}
+.third-sec img{
+    height: 300px;
+    width: 90%;
+    margin: 4%;
+   
+}
+.third-sec p {
+
+font-family: 'Bebas Neue', cursive;
+padding: 10px;
+color: rgba(250, 252, 255, 0.166);
+}
+
+.button2{
+    background-image: linear-gradient( rgb(94, 32, 188),rgb(203, 67, 67)) ;
+  border: none; 
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 30px;
+  color: white; 
+  padding: 12px 16px;
+  font-size: 24px; 
+}
+.work h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    color: aliceblue;
+    margin-top: 10px;
+    
+}
+
+    
+   .work-div{
+   
+    
+    margin-left: 20%;
+
+   
+
+   } 
+   .work-div img{
+    position: absolute;
+    z-index: -1;
+    padding-right: 30px;
+    width: 906px;
+    height: 225px;
+    
+     
+   }
+
+.work{
+   
+   
+    margin-top: 90px;
+    width: 40%;
+    float: left; 
+    margin-left: 4%;
+   
+   
+}
+
+.button3{
+    margin-left: 50px;
+    border: 2px solid;
+  
+    text-decoration: none;
+    font-size: 40px;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-size: 20px;
+
+    padding: 10px 30px;
+  
+}
+.fourth-sec{
+    height: 300px;
+}
+.service{
+
+    height: 600px;
+    
+}
+.service h1{
+    margin-top: 150px;
+    text-align:center;
+
+    color:orangered;
+}
+.service-div{
+    width: 28%;
+    float: left;
+    height: 150px;
+    margin: 2%;
+    margin-left: 40px;
+   border: 2px solid white;
+   border-radius: 20px;
+   background-color:goldenrod;
+   box-shadow: 5px 5px 5px 5px grey;
+
+}
+.service-div h3{
+font-size: 40px;
+text-align: center;
+color: rgb(238, 243, 243);
+
+
+}
+.last-sec{
+    height: 100px;
+}
+
+.last h3{
+    color: grey;
+    text-align: center;
+    font-size: 30px;
+    font-weight: lighter;
+   
+}
+.last h2{
+    line-height: 1px;
+font-weight: lighter;
+font-size: 50px;
+text-align: center;
+}
+.logo{
+    height: 100px;
+   margin:0;
+   
+width: 300px;
+margin-left: 45%;
+margin-top: 2%;
+}
+.log{
+    width: 15%;
+    float: left;
+   
+   justify-content: center;
+  align-items: center;
+}
+.log img{
+    padding: 0;
+    width: 100%;
+    height: 80px;
+
+}
+#img3{
+    height: 70px;
+}
